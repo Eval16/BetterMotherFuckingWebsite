@@ -1,0 +1,52 @@
+head
+{
+	text-align: left;
+	vertical-align: : middle;
+}
+
+h1
+{
+	font-size: 38
+}
+
+h2, hr, h4
+{
+	font-size: 25
+}
+
+h3, strong
+{
+	font-size: 18
+}
+
+h2, h3, h1, strong, hr
+{
+	opacity: 0.7;
+	color: black
+}
+
+hr
+{
+	color: black
+}
+
+.center 
+{
+  width: 50%;
+  margin-left: 290;
+}
+
+hr, h4 
+{
+  width: 50%;
+  margin-left: 290;
+}
+
+p, ul
+{
+   opacity: 0.7;
+   font-size: 18;
+   font-family: Times New Roman;
+   line-height: 1.5;
+   color: black;
+}
