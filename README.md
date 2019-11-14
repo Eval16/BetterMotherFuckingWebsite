@@ -4,6 +4,7 @@ Ce projet fait partie des trois devoirs à rendre pour le 15 novembre 2019 dans 
 
 # _**Contributeurs**_
 
+Ce projet a été réalisé par Eva Le Du et Nazlati Hafidhou, à l'aide des cours de Félix Gaudé et The Hacking Project.
 
 # _**Lien du site**_
 
